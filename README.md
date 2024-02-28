@@ -1,0 +1,2 @@
+# competitionManagerment
+基于spirngboot+vue的竞赛管理系统
